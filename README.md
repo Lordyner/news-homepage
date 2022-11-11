@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-[./desktop-layout-result.png]
+![Desktop layout](./desktop-layout-result.png)
 
 ### Links
 
